@@ -14,7 +14,7 @@ This tutorial will show you how to create a simple Java web application using em
 If you want to skip the creation steps you can clone the finished sample and then skip to the 'Deploy Your Application to Heroku' section:
 
 ```
-$ git clone git@github.com:heroku/devcenter-embedded-tomcat.git
+$ git clone git@github.com:joao-parana/embedded-tomcat8.git
 ```
 
 ## Follow the Guide
